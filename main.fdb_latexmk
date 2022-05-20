@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex main"] 1652634378 "main.aux" "main.bbl" "main" 1652634383
+["bibtex main"] 1652634378 "main.aux" "main.bbl" "main" 1653069564
   "C:/Users/kairo/AppData/Local/Programs/MiKTeX/bibtex/bst/apacite/apacite.bst" 1374952728 146156 ecb25f7102744fefab6424686f49047c ""
-  "main.aux" 1652634381 5597 c34ceb251b5a38cc8e1d5c81570fa212 "pdflatex"
+  "main.aux" 1653069562 5597 c34ceb251b5a38cc8e1d5c81570fa212 "pdflatex"
   "reference.bib" 1652213164 5593 de5ddf6b5e5a4b327d1efb526254d744 ""
   (generated)
   "main.bbl"
   "main.blg"
-["pdflatex"] 1652634379 "c:/Users/kairo/gppw-project-2022/main.tex" "main.pdf" "main" 1652634383
+["pdflatex"] 1653069559 "c:/Users/kairo/gppw-project-2022/main.tex" "main.pdf" "main" 1653069564
   "C:/Users/kairo/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1652633990 82535 0266753fb37a3d673c1d739765ad059f ""
   "C:/Users/kairo/AppData/Local/MiKTeX/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm1200.pk" 1652211106 27028 6263f6c9cc7afeeb51343653a08b08bf ""
   "C:/Users/kairo/AppData/Local/MiKTeX/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm1440.pk" 1644753947 32600 32470a668bc3c36a69bfe5e2a383efd1 ""
@@ -209,12 +209,12 @@
   "C:/Users/kairo/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/kairo/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1636284872 56029 3f7889dab51d620aa43177c391b7b190 ""
   "C:/Users/kairo/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1623005690 4902 efb3d66683a2da2a232f71e3a571a899 ""
-  "c:/Users/kairo/gppw-project-2022/main.tex" 1652634372 18642 75baa7b3279d529c715c01a54048d469 ""
+  "c:/Users/kairo/gppw-project-2022/main.tex" 1653069554 18627 92cdd2d268bbee9a2e925acfc1604ab8 ""
   "interview_1.tex" 1652633681 18260 ccb72b9a41dacc98f4b83d85485bf03b ""
   "interview_2.tex" 1652634353 9093 49596aca292ee98c9f8514160bc21787 ""
-  "main.aux" 1652634381 5597 c34ceb251b5a38cc8e1d5c81570fa212 "pdflatex"
+  "main.aux" 1653069562 5597 c34ceb251b5a38cc8e1d5c81570fa212 "pdflatex"
   "main.bbl" 1652634379 11869 d811a36f309c24acf829d7144e3ef836 "bibtex main"
-  "main.out" 1652634381 1365 8cc60d1fa077335c91704899bcebb2dd "pdflatex"
+  "main.out" 1653069562 1365 8cc60d1fa077335c91704899bcebb2dd "pdflatex"
   "picture1.png" 1652100346 79787 4db427b3ffe4c3c9b78952eceaf0bd79 ""
   (generated)
   "main.aux"
